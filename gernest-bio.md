@@ -50,7 +50,7 @@ Most search result on Google  about how to make a website points to
 PHP+MySQl+HTML+CSS combo. I started from there.
 
 Most materials I was reading were from the w3c website. I was  messing around
-with css and html mostly until when they weren't enogh that is when I tried to
+with css and html mostly until when they weren't enough that is when I tried to
 learn PHP. I was a windows user back then so my text editor was nodepad++.
 
 
